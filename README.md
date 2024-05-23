@@ -1,4 +1,3 @@
-```markdown
 # GRAFOS: QUAL ALGORITMO USAR?
 
 ## DJIKSTRA
